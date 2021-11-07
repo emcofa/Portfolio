@@ -8,14 +8,15 @@ Home page
 
 <div class= "row">
 <div class= "column">
-<p>Welcome to my portfolio. My name is Emmie and I have a enormous passion about creating things.</p>
+<p>Välkommen till mitt portfolio. Jag heter Emmie och har en stor passion av att skapa nya saker och ting.</p><br>
 
-<p>When I was a little kid and went to kindergarten and school I could sit for hours all by myself and apply perler beads to my pegboard or make clay figures. When I became a little bit older and had to make a presentation in school, the funniest thing I new was to make an epic PowerPoint presentation with a cool style. I also had an era a few years ago when I was 110% sure I wanted to be a photographer and a year later my passion for gardening began to grow. I can not say that I was very good at those things in the beginning but the interest in creating new things always learned me to develope myself. My passion for computers have always been there though. I do not have much experience in web design at all (nothing to be precisely) but the idea of working with colors and different forms of design at the same time in a computer sounds too tempting to not try. Hopefully learn programming and web design will lead to my dream job,m, because I have that feeling now.</p>
+<p>När jag var liten och gick på förskola och fritids kunde jag sitta i flera timmar helt själv och pärla pärlplattor eller göra lerfigurer. När jag blev lite äldre och vi skulle göra redovisningar i skolan var det roligaste jag visste att att förbereda en cool PowerPoint-presentation inför redovisningen. På min fritid har jag alltid tyckt det var roligt att fotografera och på senare tid har jag försökt ge mig på odling. Jag kan inte säga att jag har varit speciellt bra på dessa saker i början, men intresset av att skapa nya saker och vara kreativ har lärt mig att utvecklas. Min passion för datorer har alltid funnits där dock. Jag har inte alls mycket erfarenhet av web design alls (ingenting för att vara ärlig) men tanken av att arbeta med färg och form inom datorer låter som en perfekt kombination för min del. På denna sida får följa med på min resa mot att lära mig programmera och under tiden kunna skapa en vacker web design.</p>
 </div>
 
 <div class= "column">
 <figure>
 <img src= "assets/img/stockholm.jpg" alt= "Stockholm" height= "350">
-<figcaption><i>Södermalm, Stockholm 2019</i></figcaption>
+<figcaption><i>Södermalm, Stockholm 2019 (foto av mig)</i></figcaption>
 </figure>
+</div>
 </div>

@@ -41,11 +41,8 @@ body {
     padding: 5px;
 }
 
-.row {
-    display: flex;
-  }
 
-.row::after {
+.row:after {
     content: "";
     display: table;
     clear: both;
@@ -60,9 +57,13 @@ body {
     text-align: center;
   }
 
-  
 
 div.nav ul li:first-child:hover {
+    background-color: rgb(125, 125, 125);
+    color: white;
+}
+
+div.nav ul li:nth-child(2):hover {
     background-color: rgb(125, 125, 125);
     color: white;
 }
@@ -90,7 +91,7 @@ div.nav ul li:last-child:hover {
     padding: 3em 3em 3em 0;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
     .column {
       width: 100%;
     }
