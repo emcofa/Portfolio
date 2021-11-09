@@ -1,0 +1,23 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: $font-color;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    line-height: $main-line-height
+}
+
+p {
+    font-size: $main-font-size;
+    margin-bottom: $magic-number;
+}
+
+@media (min-widht: 64em) {
+    html {
+        font-size: 112.5%;
+    }
+}
