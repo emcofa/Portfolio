@@ -1,12 +1,14 @@
 .footer {
-    padding: 0.5em;
+    padding: $main-padding;
     display: flex;
     justify-content: space-between;
-    border-top: 1px solid #222;
+    border-top: 1px solid $border-color;
+    background-color: $footer-background-color;
 }
 
 .footer a {
-    color: #222;
+    color: $border-color;
+    text-decoration: none;
 }
 
 .footer .social {

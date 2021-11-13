@@ -1,6 +1,17 @@
 * {
-    font-family: 'Montserrat', sans-serif;
+    font-family: $main-font;
     color: $font-color;
+    letter-spacing: $main-letter-spacing;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $header-font;
+    text-transform: uppercase;
 }
 
 html {
@@ -8,12 +19,16 @@ html {
 }
 
 body {
-    line-height: $main-line-height
+    line-height: $main-line-height;
 }
 
 p {
     font-size: $main-font-size;
     margin-bottom: $magic-number;
+}
+
+.color {
+    color: $background-color;
 }
 
 @media (min-widht: 64em) {

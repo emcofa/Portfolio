@@ -1,27 +1,36 @@
-/* Header */
-
-.header, .site-header {
+.header,
+.site-header {
     display: flex;
     justify-content: space-between;
 }
 
-/* Title */
-
-.title, .logo {
+.title,
+.logo {
     padding: 3em 3em 3em 0;
 }
 
 .title p {
     font-style: italic;
+    padding: $main-padding;
+}
+
+.logo {
+    padding: $main-padding;
+    border: 1px solid $border-color;
+    border-radius: 50%;
+    background-color: $main-background-color;
+    box-shadow: $shadow;
 }
 
 @media (max-width: 767px) {
     .title {
         padding: 1em 1em 1em 0;
     }
+
     .title {
         min-width: 50%;
     }
+    
     .logo {
         display: none !important;
     }
