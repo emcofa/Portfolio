@@ -6597,7 +6597,7 @@ body {
   }
 }
 .footer {
-  padding: 0.5em;
+  padding: 1em;
   display: flex;
   justify-content: space-between;
   border-top: 1px solid #222;
@@ -6615,21 +6615,33 @@ body {
 
 .nav ul li:first-child:hover {
   background-color: #a4a4a4;
+  transition: all 0.5s ease;
 }
 
 .nav ul li:nth-child(2):hover {
   background-color: #a4a4a4;
+  transition: all 0.5s ease;
 }
 
 .nav ul li:last-child:hover {
   background-color: #a4a4a4;
+  transition: all 0.5s ease;
 }
 
 @media (max-width: 767px) {
   .nav {
     display: table;
+    background-color: #ededed;
   }
 }
+body {
+  background-image: url(../../../assets/img/backgroungImg.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: 400px;
+}
+
 .img-me {
   max-width: 100%;
   max-height: 100%;
@@ -6641,19 +6653,24 @@ body {
     height: auto;
   }
 }
+@media (max-width: 1200px) {
+  body {
+    background-image: none !important;
+  }
+}
 blockquote {
   font-style: italic;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 0.5em solid #f5f5f5;
+  border-left: 0.5em solid #ededed;
 }
 
 code {
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
-  border: 1px solid #ccc;
+  border: 1px solid #a4a4a4;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #ededed;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6661,9 +6678,9 @@ code {
 
 pre {
   padding: 0 1em;
-  border: 1px solid #ccc;
+  border: 1px solid #a4a4a4;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #ededed;
 }
 pre code {
   display: block;
