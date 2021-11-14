@@ -6635,7 +6635,7 @@ body {
   }
 }
 body {
-  background-image: url(../../../assets/img/backgroungImg.png);
+  background-image: url("../../../assets/img/backgroungImg.png");
   background-repeat: no-repeat;
   background-position: top;
   background-attachment: fixed;
