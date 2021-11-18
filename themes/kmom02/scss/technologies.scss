@@ -1,0 +1,91 @@
+.landingpage {
+    display: grid;
+    grid-column: span 3;
+    gap: $magic-number $magic-number;
+    padding-left: $magic-number;
+    padding-right: $magic-number;
+    margin-bottom: $magic-number;
+}
+
+.landingpage h1,
+.landingpage p {
+    grid-column: span 3;
+}
+
+.tech-box {
+    background-color: $background-color;
+    border: solid 1px $border-color;
+    padding: $main-padding;
+    text-align: center;
+    box-shadow: $shadow;
+    margin-bottom: $magic-number;
+}
+
+
+.tech-box h3 {
+    background-color: $column1-background-color;
+    color: $font-alternative-color;
+    padding: $magic-number;
+}
+
+.tech-box a {
+    text-decoration: none;
+}
+
+.technology-article {
+    display: flex;
+    flex-direction: row;
+}
+
+.technology-article .side-box h2,
+.technology-article .side-box a {
+    color: $font-alternative-color;
+}
+
+.technology-article .side-box a:hover {
+   background-color: $background-color;
+   color: $font-color;
+   transition: all 0.3s ease;
+}
+
+.technology-article .side-box {
+    width: 30%;
+}
+
+.technology-article .side-box ul {
+    list-style-type: none;
+    color: $font-alternative-color;
+}
+
+.technology-article .content-box {
+    width: auto;
+}
+
+.technology-article .content-box{
+    border: solid 1px $border-color;
+    padding: $main-padding;
+    text-align: center;
+}
+
+.technology-article .side-box{
+    background-color: $column1-background-color;
+    border: solid 1px $border-color;
+    padding: $main-padding;
+    text-align: center;
+}
+
+// .tech-box.project {
+//     grid-column: span 3;
+// }
+
+@media (max-width: 937px) {
+    .tech-box{
+        grid-column: span 3;
+    }
+}
+
+@media (max-width: 937px) {
+    .technology-article .side-box{
+       display: none !important;
+    }
+}

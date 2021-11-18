@@ -31,7 +31,9 @@
     .title {
         min-width: 50%;
     }
-    
+}
+
+@media (max-width: 1031px) {
     .logo {
         display: none !important;
     }
