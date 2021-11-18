@@ -14,6 +14,7 @@ pre {
     border: 1px solid $navbar-hover-background;
     border-radius: 0.3em;
     background: $background-color;
+    max-width: 100%;
 }
 
 pre code {

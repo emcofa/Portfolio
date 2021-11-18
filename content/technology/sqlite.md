@@ -1,6 +1,6 @@
 ---
 Title: Sqlite
-Description: This is a page about Sqlite.
+Description: Lär dig om Sqlite
 Template: technology
 ---
 Sqlite

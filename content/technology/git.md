@@ -1,6 +1,6 @@
 ---
 Title: Git
-Description: This is a page about git.
+Description: Lär dig om Git
 Template: technology
 ---
 Git

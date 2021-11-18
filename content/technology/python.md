@@ -1,6 +1,6 @@
 ---
 Title: Python
-Description: This is a page about Python.
+Description: Lär dig om Python
 Template: technology
 ---
 Python

@@ -1,6 +1,6 @@
 ---
 Title: Html
-Description: This is a page about html.
+Description: Lär dig om HTML
 Template: technology
 ---
 Html
@@ -14,6 +14,8 @@ HTML använder sig av element beskrivna av taggar. Nedan är ett exempel på ett
 
 <pre>
 <code>
-&lt;p>En länk till min &lt;a href="minwebbplats.html">webbplats&lt;/a>&lt;p>
+&lt;p>En länk till min 
+&lt;a href="minwebbplats.html">webbplats&lt;/a>
+&lt;/p>
 </code>
 </pre>

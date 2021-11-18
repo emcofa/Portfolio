@@ -1,6 +1,6 @@
 ---
 Title: CSS
-Description: This is a page about css.
+Description: Lär dig om CSS
 Template: technology
 ---
 CSS

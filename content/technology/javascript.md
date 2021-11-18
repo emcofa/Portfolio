@@ -1,6 +1,6 @@
 ---
-Title: Javascript
-Description: This is a page about Javascript.
+Title: JavaScript
+Description: Lär dig om JavaScript
 Template: technology
 ---
 Javascript

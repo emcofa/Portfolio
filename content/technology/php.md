@@ -1,6 +1,6 @@
 ---
-Title: Php
-Description: This is a page about Php.
+Title: PHP
+Description: Lär dig om PHP
 Template: technology
 ---
 PHP
@@ -14,7 +14,8 @@ Ett program som skriver ut alla jämna siffror mellan 1 och 100 kan se ut på f�
 
 <pre>
 <code>
-&lt;?php for ($i = 1; $i &lt;= 100; $i++) {
+&lt;?php 
+for ($i = 1; $i &lt;= 100; $i++) {
         if (!($i % 2)) {
             print($i);
     }

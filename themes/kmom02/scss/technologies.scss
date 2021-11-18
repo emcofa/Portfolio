@@ -5,6 +5,13 @@
     padding-left: $magic-number;
     padding-right: $magic-number;
     margin-bottom: $magic-number;
+    background-color: $column1-background-color;
+    max-width: 75%;
+}
+
+.landingpage h1 {
+    color: $background-color;
+    text-align: center;
 }
 
 .landingpage h1,
@@ -15,7 +22,6 @@
 .tech-box {
     background-color: $background-color;
     border: solid 1px $border-color;
-    padding: $main-padding;
     text-align: center;
     box-shadow: $shadow;
     margin-bottom: $magic-number;
@@ -25,12 +31,17 @@
 .tech-box h3 {
     background-color: $column1-background-color;
     color: $font-alternative-color;
-    padding: $magic-number;
 }
 
 .tech-box a {
     text-decoration: none;
+    margin-bottom: 1em;
 }
+
+.tech-box a:hover {
+    transform: scale(1.5);
+}
+
 
 .technology-article {
     display: flex;
@@ -43,9 +54,18 @@
 }
 
 .technology-article .side-box a:hover {
-   background-color: $background-color;
-   color: $font-color;
-   transition: all 0.3s ease;
+    background-color: $background-color;
+    color: $font-color;
+    transition: all 0.3s ease;
+}
+
+.technology-article .side-box a:active {
+    background-color: $navbar-hover-background;
+    color: $font-color;
+}
+
+.technology-article .side-box a:visited {
+    color: $a-color-visit;
 }
 
 .technology-article .side-box {
@@ -61,31 +81,27 @@
     width: auto;
 }
 
-.technology-article .content-box{
+.technology-article .content-box {
     border: solid 1px $border-color;
     padding: $main-padding;
-    text-align: center;
+    text-align: left;
 }
 
-.technology-article .side-box{
+.technology-article .side-box {
     background-color: $column1-background-color;
     border: solid 1px $border-color;
     padding: $main-padding;
-    text-align: center;
+    text-align: left;
 }
 
-// .tech-box.project {
-//     grid-column: span 3;
-// }
-
 @media (max-width: 937px) {
-    .tech-box{
+    .tech-box {
         grid-column: span 3;
     }
 }
 
 @media (max-width: 937px) {
-    .technology-article .side-box{
-       display: none !important;
+    .technology-article .side-box {
+        display: none !important;
     }
 }

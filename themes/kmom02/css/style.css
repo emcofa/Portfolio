@@ -6554,7 +6554,7 @@ body {
     width: 100%;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 1072px) {
   .main {
     width: 90%;
   }
@@ -6666,6 +6666,13 @@ body {
   padding-left: 1.4em;
   padding-right: 1.4em;
   margin-bottom: 1.4em;
+  background-color: #222;
+  max-width: 75%;
+}
+
+.landingpage h1 {
+  color: #ededed;
+  text-align: center;
 }
 
 .landingpage h1,
@@ -6676,7 +6683,6 @@ body {
 .tech-box {
   background-color: #ededed;
   border: solid 1px #222;
-  padding: 1em;
   text-align: center;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
   margin-bottom: 1.4em;
@@ -6685,11 +6691,16 @@ body {
 .tech-box h3 {
   background-color: #222;
   color: #fff;
-  padding: 1.4em;
 }
 
 .tech-box a {
   text-decoration: none;
+  margin-bottom: 1em;
+  text-align: left;
+}
+
+.tech-box a:hover {
+  transform: scale(1.5);
 }
 
 .technology-article {
@@ -6708,6 +6719,15 @@ body {
   transition: all 0.3s ease;
 }
 
+.technology-article .side-box a:active {
+  background-color: #a4a4a4;
+  color: #101010;
+}
+
+.technology-article .side-box a:visited {
+  color: #7a84ba;
+}
+
 .technology-article .side-box {
   width: 30%;
 }
@@ -6724,14 +6744,14 @@ body {
 .technology-article .content-box {
   border: solid 1px #222;
   padding: 1em;
-  text-align: center;
+  text-align: left;
 }
 
 .technology-article .side-box {
   background-color: #222;
   border: solid 1px #222;
   padding: 1em;
-  text-align: center;
+  text-align: left;
 }
 
 @media (max-width: 937px) {
@@ -6767,6 +6787,7 @@ pre {
   border: 1px solid #a4a4a4;
   border-radius: 0.3em;
   background: #ededed;
+  max-width: 100%;
 }
 
 pre code {

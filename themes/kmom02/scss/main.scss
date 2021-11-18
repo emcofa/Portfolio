@@ -17,6 +17,7 @@ body {
     box-shadow: $shadow;
 }
 
+
 .header,
 .footer {
     flex: 0 0 auto;
@@ -59,7 +60,7 @@ body {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1072px) {
     .main {
         width: 90%;
     }
