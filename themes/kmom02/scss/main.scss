@@ -2,7 +2,8 @@ body {
     overflow-y: scroll;
     display: flex;
     flex-direction: column;
-    background-color: $background-color;
+    background: $bg-color-gradient;
+    background: $background-color-gradient;
     border: solid $border-color 1px;
 }
 
@@ -12,9 +13,8 @@ body {
     margin: 2em auto;
     max-width: 100%;
     max-height: 100%;
-    border: solid $border-color 1px;
-    background-color: $main-background-color;
     box-shadow: $shadow;
+    background-color: $main-background-color;
 }
 
 
@@ -29,7 +29,7 @@ body {
     box-sizing: border-box;
     padding: 5em;
     text-align: center;
-    background-color: $column1-background-color;
+    background-color: $main-background-color;
 }
 
 .column2 {
@@ -37,7 +37,7 @@ body {
     float: left;
     box-sizing: border-box;
     text-align: center;
-    background-color: $column2-background-color;
+    background-color: $main-background-color;
 }
 
 .row::after {
@@ -50,8 +50,13 @@ body {
     padding: 5em;
     text-align: center;
     box-shadow: $shadow;
+    background-color: $main-background-color;
+    color: $font-alternative-color;
 }
 
+.hidden {
+    display: none !important;
+}
 
 @media (max-width: 1031px) {
     .column1,

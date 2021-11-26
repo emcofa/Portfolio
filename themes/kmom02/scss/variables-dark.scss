@@ -1,0 +1,28 @@
+$main-font: 'Cardo', serif;
+$header-font: 'Oswald', sans-serif;
+$font-color: #ededed;
+$font-color-dark: #242424;
+$accent-color: #15ABBC;
+
+$font-alternative-color: #ededed;
+$border-color: #222;
+$shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+$column1-font: #ededed;
+$hover-icons-tech: #15ABBC;
+
+$bg-color-gradient: #242424;
+$background-color-gradient: #242424;
+$background-color: #242424;
+$background-alternative-color: #323143;
+$main-background-color: #242424;
+$column1-background-color: #363636;
+$column2-background-color: #545454;
+$footer-background-color: #545454;
+$logo-background: #363636;
+$tech-box: #545454;
+
+$main-padding: 1em;
+$main-font-size: 1em;
+$main-line-height: 1.4;
+$main-letter-spacing: 1px;
+$magic-number: $main-font-size * $main-line-height;

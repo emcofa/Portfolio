@@ -1,6 +1,6 @@
 ---
 Title: Home
-Description: This is our index page.
+Description: This is my index page.
 ---
 
 <div class= "row">
@@ -12,6 +12,6 @@ Description: This is our index page.
 
 <div class= "column2">
 <img src= "assets/img/emmie.jpg" alt= "Me" class= "img-me">
-<blockquote>Utanför en random second hand i Stockholm, maj 2021</blockquote>
+<h4>Stockholm, maj 2021</h4>
 </div>
 </div>

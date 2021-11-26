@@ -7,8 +7,11 @@
 }
 
 .footer a {
-    color: $border-color;
     text-decoration: none;
+}
+
+.footer a:hover {
+    color: $accent-color;
 }
 
 .footer .social {

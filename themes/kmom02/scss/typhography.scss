@@ -28,10 +28,18 @@ p {
 }
 
 .color {
-    color: $background-color;
+    color: $font-color;
 }
 
-@media (min-widht: 64em) {
+.about {
+    color: $font-color;
+}
+
+.centerFont {
+    text-align: center;
+}
+
+@media (min-width: 64em) {
     html {
         font-size: 112.5%;
     }

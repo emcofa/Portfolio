@@ -17,10 +17,6 @@
 
 .logo {
     padding: $main-padding;
-    border: 1px solid $border-color;
-    border-radius: 50%;
-    background-color: $main-background-color;
-    box-shadow: $shadow;
 }
 
 @media (max-width: 767px) {

@@ -1,21 +1,35 @@
+.nav a {
+    color: $font-color;
+}
+
+
 .nav ul li:first-child:hover {
-    background-color: $navbar-hover-background;
+    background-color: $accent-color;
     transition: all 0.5s ease;
 }
 
 .nav ul li:nth-child(2):hover {
-    background-color: $navbar-hover-background;
+    background-color: $accent-color;
     transition: all 0.5s ease;
 }
 
+.nav ul li:nth-child(3):hover {
+    background-color: $accent-color;
+    transition: all 0.5s ease;
+}
+.nav ul li:nth-child(4):hover {
+    background-color: $accent-color;
+    transition: all 0.5s ease;
+}
+
+
 .nav ul li:last-child:hover {
-    background-color: $navbar-hover-background;
+    background-color: $accent-color;
     transition: all 0.5s ease;
 }
 
 @media (max-width: 767px) {
     .nav {
         display: table;
-        background-color: $background-color;
     }
 }

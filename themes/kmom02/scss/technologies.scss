@@ -5,12 +5,12 @@
     padding-left: $magic-number;
     padding-right: $magic-number;
     margin-bottom: $magic-number;
-    background-color: $column1-background-color;
+    background-color: $main-background-color;
     max-width: 75%;
 }
 
 .landingpage h1 {
-    color: $background-color;
+    color: $font-color;
     text-align: center;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .tech-box {
-    background-color: $background-color;
+    background-color: $tech-box;
     border: solid 1px $border-color;
     text-align: center;
     box-shadow: $shadow;
@@ -29,44 +29,39 @@
 
 
 .tech-box h3 {
-    background-color: $column1-background-color;
-    color: $font-alternative-color;
+    color: $font-color;
+    background-color: $footer-background-color;
 }
 
 .tech-box a {
     text-decoration: none;
     margin-bottom: 1em;
+    color: $hover-icons-tech;
 }
 
 .tech-box a:hover {
     transform: scale(1.5);
+    color: $hover-icons-tech;
 }
-
 
 .technology-article {
     display: flex;
     flex-direction: row;
 }
 
-.technology-article .side-box h2,
+.technology-article .side-box h2 {
+    color: $font-color;
+}
+
 .technology-article .side-box a {
-    color: $font-alternative-color;
+    color: $font-color;
 }
 
 .technology-article .side-box a:hover {
-    background-color: $background-color;
     color: $font-color;
-    transition: all 0.3s ease;
+    background-color: $accent-color;
 }
 
-.technology-article .side-box a:active {
-    background-color: $navbar-hover-background;
-    color: $font-color;
-}
-
-.technology-article .side-box a:visited {
-    color: $a-color-visit;
-}
 
 .technology-article .side-box {
     width: 30%;
@@ -74,25 +69,27 @@
 
 .technology-article .side-box ul {
     list-style-type: none;
-    color: $font-alternative-color;
-}
-
-.technology-article .content-box {
-    width: auto;
-}
-
-.technology-article .content-box {
-    border: solid 1px $border-color;
-    padding: $main-padding;
-    text-align: left;
+    color: $font-color;
 }
 
 .technology-article .side-box {
-    background-color: $column1-background-color;
-    border: solid 1px $border-color;
+    background-color: $main-background-color;
+    color: $font-color;
     padding: $main-padding;
     text-align: left;
 }
+
+.content-box {
+    background-color: $column2-background-color;
+    padding: $main-padding;
+    text-align: left;
+    width: auto;
+}
+
+.content-box .h3 {
+    text-align: center;
+}
+
 
 @media (max-width: 937px) {
     .tech-box {

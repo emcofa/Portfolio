@@ -1,7 +1,7 @@
 code {
     margin: 0 0.1em;
     padding: 0.1em 0.2em;
-    border: 1px solid $navbar-hover-background;
+    border: 1px solid $border-color;
     border-radius: 0.3em;
     background: $background-color;
     font-family: monospace;
@@ -11,7 +11,7 @@ code {
 
 pre {
     padding: 0 1em;
-    border: 1px solid $navbar-hover-background;
+    border: 1px solid $border-color;
     border-radius: 0.3em;
     background: $background-color;
     max-width: 100%;
