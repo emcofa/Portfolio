@@ -18,7 +18,7 @@ Varför jag valde just dessa webbplatser är därför jag tycker att dessa har e
 
 Metod
 -----------------------
-Mitt utgångsläge för att utföra undersökningen är till en början att kolla igenom alla webbplatser översiktigt så jag får en viss typ av bild av sidan och vilken spontan känsla hos mig som blommar upp. Som verktyg för att kunna analysera färg och typografi använder jag mig främst av boken "The principles of beautiful web design, 4th edition" (Beaird, George och Walker 2020) där olika färgscheman/hjul radas upp som går att ta hjälp av vid analys av webbplatserna. Där i finns även ett kapitel om "typografi" som är ett bra verktyg att ta del av i denna uppgift.
+Mitt utgångsläge för att utföra undersökningen är till en början att kolla igenom alla webbplatser översiktigt så jag får en viss typ av bild av sidan och vilken spontan känsla hos mig som blommar upp. Som verktyg för att kunna analysera färg och typografi använder jag mig främst av boken "The principles of beautiful web design, 4th edition" (Beaird, George och Walker 2020) där olika färgscheman/hjul radas upp som går att ta hjälp av vid analys av webbplatserna. Där i finns även ett kapitel om "typografi" som är ett bra verktyg att ta del av i denna uppgift. Jag använder en inbyggd color picker i Chromes webbläsare för att ta reda på exakta färgkoder på de olika webbplatserna.
 
 Resultat
 -----------------------
@@ -53,7 +53,7 @@ Färgpaletten som används på sidan ser ut som följande:
 </tr>
 </table>
 
-Färgschemat som används skulle jag säga är ett komplementärt färschema då sidan består främst består av färger som grönt och orange. Dessa två sekundärfärger är i princip varandras motsatser och kan stärka intrycktet på en sida. Det är både den gröna och orangea färgen på sidan som jag skulle vilja kalla för accentfärger. Majoriteten av sidan består annars av olika filmer/bilder på djur eller går i vitt eller i svart. Orange och grönt används för att betona vart på webbplatsen WWF vill att en användare ska trycka. Till exempel knappen "Stöd oss" som är orange eller knappen "Bli fadder" som är grön,
+Färgschemat som används skulle jag säga är ett komplementärt färschema då sidan består främst består av färger som grönt och orange. Dessa två sekundärfärger är i princip varandras motsatser och kan stärka intrycktet på en sida. Det är både den gröna och orangea färgen på sidan som jag skulle vilja kalla för accentfärger. Majoriteten av sidan består annars av olika filmer/bilder på djur eller går i vitt eller i svart. Orange och grönt används för att betona vart på webbplatsen WWF vill att en användare ska trycka. Till exempel knappen "Stöd oss" som är orange eller knappen "Bli fadder" som är grön.
 
 <img src= "../assets/img/wwfBlack.png" alt= "WWF black" class="color-img">
 
@@ -77,7 +77,7 @@ Färgschemat på denna webbplats skulle jag vilja säga går i nyanser. Jag tyck
 
 <img src= "../assets/img/sosStatistik.png" alt= "Statistik" class="color-img">
 
-Sos Barnbyars webbplats har bara Sans-seriff som typsnitt, både på rubriker och brödtext. Rubrikerna och de delar av brödtexten som är viktigast är oftats fetmarkerade.
+Sos Barnbyars webbplats har bara Sans-serif som typsnitt, både på rubriker och brödtext. Rubrikerna och de delar av brödtexten som är viktigast är oftats fetmarkerade.
 
 Precis som tidigare webbplatser tycker jag att webbplatsens färgval och typografi motsvarar den profil som jag tror webbplatsen vill ha. Jag tror att deras syfte är att få fram det budskapet som de vill framföra och de får de genom att ha en enkel sida med bra design och en accentfärg som kan stärka deras budskap.  
 
@@ -86,7 +86,7 @@ Analys
 
 För att utgå från vad resultaten visar använder sig alla tre sidor av relativt få färger. Unicef hade bara blåa nyanser på sin sida, medan SOS Barnbyar i stort sett bara orange. Om jag som användare går in på de olika sidorna skapas det en känsla av intresse eftersom det inte finns massor av överflödig desing i olika färger som tar bort det viktiga budskapet. jag la även märke till att olika färger användes flitigt när organisationerna ville betona något som var viktigt. På WWF:s webbplats var många sektioner i svart där artiklar om djurplågeri fanns med exempelvis. Genom att använda svart som oftast kan förknippas med sorg eller liknande och samtidigt visa upp djur som far illa skapas en allvarlig stämning som kan få användaren att förstå det stora problemet och viljan att hjäpa till kan uppstå. 
 
-Genom att de olika organisationerna använder sig av så pass få olika färger gör det lätt att de kommer förknippas med vardera färg sedan. Detta hjälper till i deras branding för att kunna öka anta deras månadsgivare och folk som vill hjälpa till. Om de upprepande gånger använder dessa färger i sina reklamer på tv eller i sociala medier samt broschyrer och webbsidor osv. kommer människor omedvetet lägga koppla ihop just den färgen med den organisationen vilket i slutändan stärker deras varumärke.
+Genom att de olika organisationerna använder sig av så pass få olika färger gör det lätt att de kommer förknippas med vardera färg sedan. Detta hjälper till i deras "branding" för att kunna öka anta deras månadsgivare och folk som vill hjälpa till. Om de upprepande gånger använder dessa färger i sina reklamer på tv eller i sociala medier samt broschyrer och webbsidor osv. kommer människor omedvetet lägga koppla ihop just den färgen med den organisationen vilket i slutändan stärker deras varumärke.
 
 Eftersom alla webbsidor använder sig av typsnitt som är enkla att läsa går det att förstå att syftet med sidan är att den ska vara informationsrik och användbarheten hög.
 
