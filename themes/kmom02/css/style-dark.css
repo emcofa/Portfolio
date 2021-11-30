@@ -6494,7 +6494,7 @@ p {
   color: #ededed;
 }
 
-.centerFont {
+.center-font {
   text-align: center;
 }
 
@@ -6620,7 +6620,7 @@ body {
 }
 
 .footer a:hover {
-  color: #15ABBC;
+  color: #15abbc;
 }
 
 .footer .social {
@@ -6668,27 +6668,27 @@ pre code {
 }
 
 .nav ul li:first-child:hover {
-  background-color: #15ABBC;
+  background-color: #15abbc;
   transition: all 0.5s ease;
 }
 
 .nav ul li:nth-child(2):hover {
-  background-color: #15ABBC;
+  background-color: #15abbc;
   transition: all 0.5s ease;
 }
 
 .nav ul li:nth-child(3):hover {
-  background-color: #15ABBC;
+  background-color: #15abbc;
   transition: all 0.5s ease;
 }
 
 .nav ul li:nth-child(4):hover {
-  background-color: #15ABBC;
+  background-color: #15abbc;
   transition: all 0.5s ease;
 }
 
 .nav ul li:last-child:hover {
-  background-color: #15ABBC;
+  background-color: #15abbc;
   transition: all 0.5s ease;
 }
 
@@ -6734,12 +6734,12 @@ pre code {
 .tech-box a {
   text-decoration: none;
   margin-bottom: 1em;
-  color: #15ABBC;
+  color: #15abbc;
 }
 
 .tech-box a:hover {
   transform: scale(1.5);
-  color: #15ABBC;
+  color: #15abbc;
 }
 
 .technology-article {
@@ -6757,7 +6757,7 @@ pre code {
 
 .technology-article .side-box a:hover {
   color: #ededed;
-  background-color: #15ABBC;
+  background-color: #15abbc;
 }
 
 .technology-article .side-box {
@@ -6838,5 +6838,5 @@ body {
 .fa-moon,
 .fa-trash-alt,
 .fa-bars {
-  color: #15ABBC;
+  color: #15abbc;
 }

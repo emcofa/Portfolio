@@ -6494,7 +6494,7 @@ p {
   color: #101010;
 }
 
-.centerFont {
+.center-font {
   text-align: center;
 }
 
@@ -6518,7 +6518,7 @@ body {
   margin: 2em auto;
   max-width: 100%;
   max-height: 100%;
-  box-shadow: 5px 5px 10px #00000066;
+  box-shadow: 5px 5px 10px #0006;
   background-color: rgba(192, 210, 240, 0.366);
 }
 
@@ -6553,7 +6553,7 @@ body {
 .about {
   padding: 5em;
   text-align: center;
-  box-shadow: 5px 5px 10px #00000066;
+  box-shadow: 5px 5px 10px #0006;
   background-color: rgba(192, 210, 240, 0.366);
   color: #ededed;
 }
@@ -6722,7 +6722,7 @@ pre code {
   background-color: #b8d9c258;
   border: solid 1px #222;
   text-align: center;
-  box-shadow: 5px 5px 10px #00000066;
+  box-shadow: 5px 5px 10px #0006;
   margin-bottom: 1.4em;
 }
 
