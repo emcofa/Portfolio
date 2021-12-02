@@ -17,27 +17,21 @@ body {
     background-color: $main-background-color;
 }
 
+.main2 {
+    flex: 1 0 auto;
+    width: 64em;
+    margin: 2em auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.max-width {
+    max-width: 50%;
+}
 
 .header,
 .footer {
     flex: 0 0 auto;
-}
-
-.column1 {
-    width: 50%;
-    float: left;
-    box-sizing: border-box;
-    padding: 5em;
-    text-align: center;
-    background-color: $main-background-color;
-}
-
-.column2 {
-    width: 50%;
-    float: left;
-    box-sizing: border-box;
-    text-align: center;
-    background-color: $main-background-color;
 }
 
 .row::after {
@@ -54,19 +48,25 @@ body {
     color: $font-alternative-color;
 }
 
-.hidden {
-    display: none !important;
+.index {
+    text-align: center;
+    box-shadow: $shadow;
+    background-color: $main-background-color;
+    color: $font-color;
 }
 
-@media (max-width: 1031px) {
-    .column1,
-    .column2 {
-        width: 100%;
-    }
+.hidden {
+    display: none !important;
 }
 
 @media (max-width: 1072px) {
     .main {
         width: 90%;
+    }
+}
+
+@media (max-width: 600px) {
+    .index {
+        padding: 1em;
     }
 }

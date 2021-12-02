@@ -23,7 +23,7 @@ Mitt utgångsläge för att utföra undersökningen är till en början att koll
 Resultat
 -----------------------
 
-<h3 class="centerFont">Unicef</h3>
+<h3 class="center-font">Unicef</h3>
 <img src= "../assets/img/unicef.png" alt= "Unicef" class="color-img">
 
 Färgpaletten som används på sidan ser ut som följande:
@@ -40,7 +40,7 @@ Färgschemat som används skulle jag säga är monokromatiskt då sidan är enf�
 
 Jag anser att webbplatsens färgval och typografi motsvarar den profil som jag tror webbplatsen vill ha. Varför jag anser det är för att det passar med en ganska "enkel" webbplats för en hjälporganisation. Där är det inte en cool design som står i fokus utan snarare budskapet. Dock är det viktigt att sidan ser pålitligt ut och kan locka nya personer som vill skänka pengar därför är det bra med en enkel och tydlig design som inte förvirrar läsare.
 
-<h3 class="centerFont">WWF</h3>
+<h3 class="center-font">WWF</h3>
 <img src= "../assets/img/wwf.png" alt= "WWF" class="color-img">
 
 Färgpaletten som används på sidan ser ut som följande:
@@ -61,7 +61,7 @@ Som det går att se på bilden ovan finns det många mörka kolumner på sidan, 
 
 Även här anser jag att webbplatsens färgval och typografi motsvarar den profil som jag tror webbplatsen vill ha. Även denna sida är ganska "enkel" med inget som svävar ut. Dock består den av lite mer färger och rörliga filmer vilket kan öka intrycket och viljan att skänka pengar än vad föregånde webbplats bidrog med. En rubrik som WWF hade var emellerid att "rädda regnskogen" och eftersom en regnskog ofta förknippas med färgglada färger är komplementärfärgerna bra att använda på sidan eftersom de också är färgglada och därav öka intrycket på sidan.
 
-<h3 class="centerFont">Sos Barnbyar </h3>
+<h3 class="center-font">Sos Barnbyar </h3>
 <img src= "../assets/img/sos.png" alt= "SOS Barnbyar" class="color-img">
 
 Färgpaletten som används på sidan ser ut som följande:
