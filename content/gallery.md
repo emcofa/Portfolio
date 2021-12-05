@@ -114,6 +114,11 @@ Template: gallery
         </picture>
     </div>
 </div>
-<div class="embed-container">
-  <iframe src="https://www.youtube.com/embed/O4irXQhgMqg" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <div class="embed-container">
+      <iframe src="https://www.youtube.com/embed/O4irXQhgMqg" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
+
+
+

@@ -4,7 +4,6 @@ body {
     flex-direction: column;
     background: $bg-color-gradient;
     background: $background-color-gradient;
-    border: solid $border-color 1px;
 }
 
 .main {
@@ -49,9 +48,9 @@ body {
 }
 
 .index {
+    padding: 5em;
     text-align: center;
     box-shadow: $shadow;
-    background-color: $main-background-color;
     color: $font-color;
 }
 

@@ -1,0 +1,17 @@
+.spreadsheet {
+    position: relative;
+    padding-bottom: 30%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.spreadsheet iframe,
+.spreadsheet object,
+.spreadsheet embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 75%;
+}
