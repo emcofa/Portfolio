@@ -8,10 +8,9 @@
 
         {% for page in pages("analysis") %}
         <div class="tech-box">
-            <h3>{{ page.title }}</h3>
-            <a href="{{ page.url }}">
-                <a class="fas fa-arrow-circle-right fa-lg" href="{{ page.url }}"></a>
-            </a>
+            <h2>{{ page.title }}</h2>
+            <href="{{ page.url }}">
+                <a class="fas fa-arrow-circle-right fa-lg" href="{{ page.url }}" aria-label="arrow"></a>
         </div>
         {% endfor %}
     </div>

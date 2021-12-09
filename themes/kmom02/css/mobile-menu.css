@@ -14,11 +14,11 @@
     padding: 0 1em;
 }
 
-.nav a, .nav-toggle {
+.nav a, .nav-toggle1 {
     color: #333;
 }
 
-.nav-toggle {
+.nav-toggle1 {
     display: none;
 }
 
@@ -43,7 +43,7 @@
         padding: 0.5em 0;
     }
 
-    .js .nav-toggle {
+    .js .nav-toggle1 {
         display: block;
         float: right;
         width: 2em;

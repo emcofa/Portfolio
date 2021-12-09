@@ -28,6 +28,7 @@
 }
 
 
+
 .tech-box h3 {
     color: $font-color;
     background-color: $footer-background-color;
@@ -49,17 +50,26 @@
     flex-direction: row;
 }
 
+.technology-article a:hover {
+    color: $accent-color;
+}
+
 .technology-article .side-box h2 {
     color: $font-color;
 }
 
 .technology-article .side-box a {
+    font-family: $header-font;
+    display: inline-block;
+    transition-duration: 0.3s;
     color: $font-color;
 }
 
 .technology-article .side-box a:hover {
-    color: $font-color;
-    background-color: $accent-color;
+    transform: scale(0.9);
+    background-color: transparent;
+    transition: all 0.5s ease;
+    color: $accent-color;
 }
 
 
@@ -77,13 +87,15 @@
     color: $font-color;
     padding: $main-padding;
     text-align: left;
+    border: solid 1px $border-color;
 }
 
 .content-box {
-    background-color: $column2-background-color;
+    background-color: $content-box;
     padding: $main-padding;
     text-align: left;
     width: auto;
+    border: solid 1px $border-color;
 }
 
 .content-box .h3 {

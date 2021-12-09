@@ -4,6 +4,7 @@
     letter-spacing: $main-letter-spacing;
 }
 
+.nav a,
 h1,
 h2,
 h3,
@@ -30,6 +31,12 @@ p {
 .color {
     color: $font-color;
 }
+
+.shadow {
+    font-size: 60px;
+    line-height: 60px;
+}
+
 
 .about {
     color: $font-color;

@@ -9,6 +9,14 @@
     padding: 3em 3em 3em 0;
 }
 
+.shadow {
+    display: block;
+    margin: 11px 0 17px;
+    color: $bg-color-title;
+    text-shadow: 0 -2px 1px $shadow-text;
+    letter-spacing: -4px;
+}
+
 
 .title p {
     font-style: italic;

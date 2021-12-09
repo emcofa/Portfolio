@@ -5,7 +5,7 @@ Description: About the website's technique
 
 <div class= "about">
 <h2 class= "color">About</h2>
-<h4 class= "color">Min teknik inför skapandet av webbsidan</h4>
+<h3 class= "color">Min teknik inför skapandet av webbsidan</h3>
 <i class= "color"> - SCSS</i>
 <p class= "color">
 Jag har använt mig av SCSS som man skulle kunna kalla är en "förlängning" av traditionella CSS, en liten mer avancerad funktion. Användandet av SCSS har strukturerat min websida något enormt och har underlättat min teknik. SCSS låter mig spara undan min kod i variabler som gör att jag lätt kan få tillgång till dem och använda på flera ställen för att få ett enhetligt uttryck. På så sätt har jag även lyckats undvika upprepande kod. Jag utgick främst för att spara undan variabler som har med typografi och färg att göra. 

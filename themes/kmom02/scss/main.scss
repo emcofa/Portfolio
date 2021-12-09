@@ -14,7 +14,10 @@ body {
     max-height: 100%;
     box-shadow: $shadow;
     background-color: $main-background-color;
+    border: 1px solid $border-color;
 }
+
+
 
 .main2 {
     flex: 1 0 auto;

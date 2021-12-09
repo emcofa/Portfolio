@@ -2,15 +2,23 @@ $main-font: 'Cardo', serif;
 $header-font: 'Oswald', sans-serif;
 $font-color: #101010;
 $font-color-dark: #101010;
-$accent-color: rgba(240, 236, 192, 1);
+$accent-color: #f0ecc0;
+$accent-color2: #e1b8e6;
+$icons: #101010;
 
+$nav-a: #ededed;
 $font-alternative-color: #ededed;
 $border-color: #222;
 $shadow: 5px 5px 10px #0006;
+$shadow-title: #333;
+$bg-color-title: #222;
 $column1-font: #ededed;
 $bg-color-gradient: rgb(225, 184, 230);
 $background-color-gradient: linear-gradient(180deg, rgba(225, 184, 230, 1) 0%, rgba(192, 210, 240, 1) 51%, rgba(240, 236, 192, 1) 100%);
 $hover-icons-tech: #222;
+
+$shadow-text: rgb(60, 60, 60);
+$content-box: #e7c5b319;
 
 $background-color: #ededed;
 $background-alternative-color: #e0fbfc;

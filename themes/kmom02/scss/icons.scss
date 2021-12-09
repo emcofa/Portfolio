@@ -4,5 +4,11 @@
 .fa-moon,
 .fa-trash-alt,
 .fa-bars {
-    color: $accent-color;
+    color: $icons;
+
+    &:hover {
+        color: $accent-color2;
+        transform: scale(1.1);
+        transition: all 0.5s ease;
+    }
 }
